@@ -10,3 +10,7 @@ This project analyzes trends in PM2.5 air pollution using environmental monitori
 ## Visualizations
 - Line chart showing PM2.5 trends over time
 - Histogram showing the distribution of PM2.5 concentrations
+
+## Data
+The original dataset was large, so a cleaned subset containing
+PM2.5 measurements used in this analysis is included in the repository.
